@@ -1,0 +1,7 @@
+{
+  "name": "VOGUE AI - Next-Gen Fashion E-commerce",
+  "description": "A high-end clothing e-commerce platform featuring an integrated AI fashion stylist and Veo cinematic video generator for animating fashion concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
